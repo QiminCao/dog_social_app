@@ -1,0 +1,8 @@
+Code Reviewed by Mark Kachur
+
+Their seems to be a bunch of extra code. I would go through and delete a bunch of it. Anything that is not being used anywhere should be removed.
+I would add maybe, author search to the search bar, as it doesn't seem to search the other fields.
+The splash page has a login and a signup that don't seem to work.
+
+Overall good app, I really like the color changing borders when you search the posts. 
+Good start to a good app idea, love the splash of life you have given it. Wish we had more time to add more features to these websites and really polish them out with some hands on help.
